@@ -1,6 +1,6 @@
 # 👋 Welcome to the place where creativity meets code!
 
-Hi, I'm **Gustavo Rossoni** 🧑💻—a passionate Full Stack Developer specializing in **AI integrations** and **multimedia automation**, my stack goes from **Python** to **Node.js**, and I thrive on turning ideas into functional magic ✨
+Hi, I'm **Gustavo Barros** 🧑💻—a passionate Full Stack Developer specializing in **AI integrations** and **multimedia automation**, my stack goes from **Python** to **Node.js**, and I thrive on turning ideas into functional magic ✨
 
 ## 🚀 Stack Highlights
 
